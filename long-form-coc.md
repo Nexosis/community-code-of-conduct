@@ -47,7 +47,7 @@ Appropriate behavior contributes to the health, safety, and longevity of the Nex
 * Attempting collaboration before conflict.
 * Gracefully accepting well-communicated constructive criticism.
 
-## Inappropriate behavior (harassment) includes:
+Inappropriate behavior (harassment) includes:
 * Discriminatory language and actions that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, religion (or lack thereof), or other identity markers.
 * Excessive trolling or sustained, uninvited disruption.
 * Insults or personal attacks.
