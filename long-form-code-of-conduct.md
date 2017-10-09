@@ -3,7 +3,7 @@
 * Long-form Code of Conduct
   * Values
   * Behavior
-  * Procedures
+  * Incident Reporting
   * Enforcement
   * Moderators
   * Additional Items
@@ -70,7 +70,7 @@ Inappropriate behavior (harassment) includes:
 * Other conduct which could reasonably be considered inappropriate in a professional setting.
 * Advocating for, or encouraging, any of the above behavior.
 
-## Reporting Procedures
+## Incident Reporting
 If you experience or witness (or have experienced / have witnessed) violations of the Code of Conduct or have any other concerns, please notify the Nexosis Community moderators identified here, and/or [submit an online report here](https://goo.gl/pfGVNK). Anonymous reports are accepted. Reports can be made at any time, but it is preferable that they are received as close as possible to the time of the incident.
 Code of Conduct violations can be reported by:
 * Submitting an online [report form](https://goo.gl/pfGVNK)
