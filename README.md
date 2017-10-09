@@ -10,4 +10,5 @@ You’re reading our short-form Code of Conduct (CoC). The long-form version, wh
 In our pursuit of constant learning, we welcome and appreciate your [feedback](https://goo.gl/ZyXtah).
 
 To report an incident submit [this form](https://goo.gl/pfGVNK) or contact one of the persons [listed here](https://github.com/Nexosis/community-code-of-conduct/blob/master/moderators.md). 
+
 :rotating_light: If this is an emergency, please consider asking for help from someone nearby or dialing 911.
