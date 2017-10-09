@@ -5,7 +5,7 @@ With that intention in mind, we are dedicated to providing a safe, inclusive, we
 
 This Code of Conduct exists because of that intention and dedication. Nexosis community spaces are designed for people to find a sense of belonging. We do not tolerate harassment in any form, and we really don't dig bad vibes.
 
-You’re reading our short-form Code of Conduct (CoC). The long-form version can be found here. It provides further insight into our community values, acceptable and unacceptable behaviors, instructions for reporting CoC violations, and other relevant information. 
+You’re reading our short-form Code of Conduct (CoC). The long-form version can be [found here](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-coc). It provides further insight into our community values, acceptable and unacceptable behaviors, instructions for reporting CoC violations, and other relevant information. 
 
 In our pursuit of constant learning, we warmly welcome and gratefully receive your feedback.
 
