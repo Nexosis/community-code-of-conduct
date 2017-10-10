@@ -2,7 +2,8 @@
 
 * [Long-form Code of Conduct](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#long-form-code-of-conduct)
   * [Values](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#values)
-  * [Behavior](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#spaces)
+  * [Spaces](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#spaces)
+  * [Behavior]https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#behavior)
   * [Incident Reporting](https://github.com/Nexosis/community-code-of-conduct/blob/master/incident-reporting.md)
   * [Enforcement](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#enforcement)
   * [Moderators](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#moderators)
