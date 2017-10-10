@@ -110,7 +110,7 @@ The Nexosis Community Code of Conduct is a living document. It will evolve with 
 
 ## Sources
 * [Lady Nerds' Code of Conduct](http://www.ladynerds.org/code_of_conduct/)
-* [Geek Feminism's Community Anit-harrassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy)
+* [Geek Feminism's Community Anti-harrassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy)
 * [Keen IO's Community Code of Conduct](https://github.com/keen/community-code-of-conduct)
 * [Enforcing Your Code of Conduct: Effective Incident Response](https://youtu.be/nizfHxg8y3o) - a talk at [Open Source & Feelings](http://www.osfeels.com/) by [Audrey Eschright](https://github.com/aeschright)
 
