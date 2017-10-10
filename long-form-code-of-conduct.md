@@ -11,12 +11,12 @@
   * [Code of Conduct Feedback](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#code-of-conduct-feedback)
   * [Sources](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#sources)
 
-## Long Form Code of Conduct
-As a company, technology provider, and, most importantly, a group of humans, Nexosis intends to foster a community around itself, because we believe that community can be powerfully positive when harnessed for good.
+# Long Form Code of Conduct
+Nexosis intends to foster community around itself, as a company, technology provider, and, most importantly, as a group of humans...because we believe that community can be powerfully positive when harnessed for good.
 
-With that intention in mind, we are dedicated to providing a safe, inclusive, welcoming, and harassment-free experience for all community members and guests -- regardless of gender identity and expression, sexual orientation, ability or disability, physical appearance, socioeconomic status, body shape or size, ethnicity, nationality, level of experience, age, religion (or lack thereof), or anything else that makes a person who they are.
+We are dedicated to providing a safe, inclusive, welcoming, and harassment-free experience for all community members and guests -- regardless of gender identity and expression, sexual orientation, ability or disability, physical appearance, socioeconomic status, body shape or size, ethnicity, nationality, level of experience, age, religion (or lack thereof), or anything else that makes a person who they are.
 
-This Code of Conduct exists because of that intention and dedication. Nexosis community spaces are designed for people to find a sense of belonging. We do not tolerate harassment in any form, and we really don't dig bad vibes.
+This Code of Conduct exists because of that intention and dedication. Nexosis community spaces are designed for people to find a sense of belonging. We do not tolerate harassment in any form, and we don't dig bad vibes.
 
 ## Values 
 The guiding principles, in which the Nexosis community is rooted: 
