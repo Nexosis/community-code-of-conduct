@@ -1,6 +1,6 @@
 # Nexosis Community Code of Conduct
 
-* [Long-form Code of Conduct](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#long-form-code-of-conduct)
+* [Long Form Code of Conduct](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#long-form-code-of-conduct)
   * [Values](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#values)
   * [Spaces](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#spaces)
   * [Behavior](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#behavior)
