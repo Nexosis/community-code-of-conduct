@@ -8,7 +8,7 @@
   * [Enforcement](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#enforcement)
   * [Moderators](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#moderators)
   * [Additional Items](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#additional-items)
-  * [Code of Conduct Feedback](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#code-of-conduct-feedback)
+  * [Feedback](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#code-of-conduct-feedback)
   * [Sources](https://github.com/Nexosis/community-code-of-conduct/blob/master/long-form-code-of-conduct.md#sources)
 
 # Long Form Code of Conduct
@@ -103,8 +103,8 @@ Please note:
 * This Code of Conduct applies to Nexosis Community spaces and events, but if you are being or have been harassed by a Nexosis Community participant externally, you may still report to the Nexosis Community moderators. We will take all good-faith reports of harassment by community participants seriously. The Nexosis Community moderators reserve the right to exclude people from the Nexosis Community and/or Nexosis events based on past and/or external behavior towards Nexosis Community participants or non-participants.
 * We will not name harassment victims without their consent. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of the Nexosis Community and/or the general public.
 
-## Feedback
-With our value of curiosity at heart, feedback is always appreciated. You can submit feedback by creating an issue in the Github repository [link to <create issue> in repo] or send feedback via the [this form](https://goo.gl/ZyXtah).
+## Feedback on this Code of Conduct
+With our value of curiosity at heart, feedback is always appreciated. You can submit feedback by creating an issue or submitting a pull request in this Github repository or by completing and submitting [this form](https://goo.gl/ZyXtah).
 
 The Nexosis Community Code of Conduct is a living document. It will evolve with the Nexosis Community and ensure that we provide a safe, inclusive, welcoming, and harassment-free space and experience for all community participants, with awareness and mindfulness toward the ever-changing realities around us.
 
@@ -114,4 +114,4 @@ The Nexosis Community Code of Conduct is a living document. It will evolve with 
 * [Keen IO's Community Code of Conduct](https://github.com/keen/community-code-of-conduct)
 * [Enforcing Your Code of Conduct: Effective Incident Response](https://youtu.be/nizfHxg8y3o) - a talk at [Open Source & Feelings](http://www.osfeels.com/) by [Audrey Eschright](https://github.com/aeschright)]
 
-:bow: Thank you to everyone who open-sourced their knowledge and expertise for this project. Your support was a invaluable in the process of creating this Code of Conduct for our community.
+:sparkles: A special "THANKS!" to the thought leaders and community professionals who open-sourced their knowledge and expertise, so that we and others can learn from them and build safer, more inclusive, and amazing communities. 
