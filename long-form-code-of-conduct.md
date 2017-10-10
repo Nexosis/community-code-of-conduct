@@ -72,7 +72,7 @@ Inappropriate behavior (harassment) includes:
 * Advocating for, or encouraging, any of the above behavior.
 
 ## Incident Reporting
-:point-right: See [these procedures](https://github.com/Nexosis/community-code-of-conduct/blob/master/incident-reporting.md) for reporting violations of the Code of Conduct.
+:point_right: See [these procedures](https://github.com/Nexosis/community-code-of-conduct/blob/master/incident-reporting.md) for reporting violations of the Code of Conduct.
 
 ## Enforcement
 Participants asked to stop any harassing behavior are expected to comply immediately, even if participants do not agree with or fully acknowledge the behavior being reported.
