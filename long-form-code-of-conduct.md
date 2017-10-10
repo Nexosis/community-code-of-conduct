@@ -114,4 +114,4 @@ The Nexosis Community Code of Conduct is a living document. It will evolve with 
 * [Keen IO's Community Code of Conduct](https://github.com/keen/community-code-of-conduct)
 * [Enforcing Your Code of Conduct: Effective Incident Response](https://youtu.be/nizfHxg8y3o) - a talk at [Open Source & Feelings](http://www.osfeels.com/) by [Audrey Eschright](https://github.com/aeschright)]
 
-:praying-hands: Thank you to everyone who open-sourced their knowledge and expertise for this project. Your support was a invaluable in the process of creating this Code of Conduct for our community.
+:bow: Thank you to everyone who open-sourced their knowledge and expertise for this project. Your support was a invaluable in the process of creating this Code of Conduct for our community.
