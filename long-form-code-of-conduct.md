@@ -103,7 +103,7 @@ Please note:
 * This Code of Conduct applies to Nexosis Community spaces and events, but if you are being or have been harassed by a Nexosis Community participant externally, you may still report to the Nexosis Community moderators. We will take all good-faith reports of harassment by community participants seriously. The Nexosis Community moderators reserve the right to exclude people from the Nexosis Community and/or Nexosis events based on past and/or external behavior towards Nexosis Community participants or non-participants.
 * We will not name harassment victims without their consent. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of the Nexosis Community and/or the general public.
 
-## Code of Conduct Feedback
+## Feedback
 With our value of curiosity at heart, feedback is always appreciated. You can submit feedback by creating an issue in the Github repository [link to <create issue> in repo] or send feedback via the [this form](https://goo.gl/ZyXtah).
 
 The Nexosis Community Code of Conduct is a living document. It will evolve with the Nexosis Community and ensure that we provide a safe, inclusive, welcoming, and harassment-free space and experience for all community participants, with awareness and mindfulness toward the ever-changing realities around us.
