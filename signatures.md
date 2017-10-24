@@ -7,4 +7,5 @@ Eric Dunne | :octopus:
 Danna Naser | :cat:
 Amie Davis | :blush:
 Trisha Meier | :dragon:
+Jeff Esp | :chicken:
 :point_up: Your name here | :point_up: Sign the doc with your fave emoji
