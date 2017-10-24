@@ -8,4 +8,5 @@ Danna Naser | :cat:
 Amie Davis | :blush:
 Trisha Meier | :dragon:
 Jeff Esp | :chicken:
+Natalie Garda | :fire:
 :point_up: Your name here | :point_up: Sign the doc with your fave emoji
