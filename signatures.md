@@ -11,4 +11,5 @@ Jeff Esp | :chicken:
 Natalie Garda | :fire:
 Jason Montgomery | :mushroom:
 Craig Vermeer | :pizza:
+Zachary Bussey | :bug:
 :point_up: Your name here | :point_up: Sign the doc with your fave emoji
